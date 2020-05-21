@@ -15,8 +15,6 @@
   <ItemGroup>
     <Content Remove="SampleData\profiles.json" />
     <Content Remove="SampleData\scores.json" />
-    <Content Remove="SampleData\profiles.json" />
-    <Content Remove="SampleData\scores.json" />
   </ItemGroup>
   <ItemGroup>
     <Content Update="SampleData\profiles.json">
