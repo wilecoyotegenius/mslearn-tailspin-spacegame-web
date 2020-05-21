@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/kkolodziejak/AZ-400-Basic/_apis/build/status/wilecoyotegenius.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/kkolodziejak/AZ-400-Basic/_build/latest?definitionId=3&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
