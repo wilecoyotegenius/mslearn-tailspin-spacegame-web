@@ -1,5 +1,5 @@
 
-[![Build Status](https://dev.azure.com/kkolodziejak/AZ-400-Basic/_apis/build/status/wilecoyotegenius.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/kkolodziejak/AZ-400-Basic/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dev.azure.com/kkolodziejak/AZ-400-Basic/_apis/build/status/wilecoyotegenius.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/kkolodziejak/AZ-400-Basic/_build/latest?definitionId=3&branchName=master) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=wilecoyotegenius_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=wilecoyotegenius_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
